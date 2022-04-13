@@ -1,0 +1,26 @@
+{
+  "name": "uptime-monitoring-app",
+  "version": "0.1.0",
+  "description": "THis is \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[h\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C an uptime monitoring app that keep track of you web application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibnyahyah/Uptime-Run-app.git"
+  },
+  "author": "whitecode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ibnyahyah/Uptime-Run-app/issues"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "homepage": "https://github.com/Ibnyahyah/Uptime-Run-app#readme"
+}

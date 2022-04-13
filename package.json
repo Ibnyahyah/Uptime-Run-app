@@ -22,8 +22,5 @@
   "engines": {
     "node": "14.x"
   },
-  "homepage": "https://github.com/Ibnyahyah/Uptime-Run-app#readme",
-  "dependencies": {
-    "dotenv": "^16.0.0"
-  }
+  "homepage": "https://github.com/Ibnyahyah/Uptime-Run-app#readme"
 }

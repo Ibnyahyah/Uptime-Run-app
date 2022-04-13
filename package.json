@@ -2,7 +2,7 @@
   "name": "uptime-monitoring-app",
   "version": "0.1.0",
   "description": "THis is \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[h\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C an uptime monitoring app that keep track of you web application",
-  "main": "NODE_ENV=production index.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
